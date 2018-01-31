@@ -1,4 +1,4 @@
-# tutorials I'm going to learn how to create progressive web apps
+# learning how to create progressive web apps
 
 https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/
 
