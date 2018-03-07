@@ -1,0 +1,6 @@
+[submodule "push-notifications"]
+	path = push-notifications
+	url = https://github.com/GoogleChrome/push-notifications.git
+[submodule "sample-media-pwa"]
+	path = sample-media-pwa
+	url = git@github.com:GoogleChromeLabs/sample-media-pwa.git
